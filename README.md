@@ -14,9 +14,6 @@ Software-Migration planen und durchführen
 
 ---
 
-### Inhalt
-
----
 
 Dieses Repo wird von Folgendem Mitglied Geführt: 
 
