@@ -2,6 +2,12 @@
 
 ### Woche 1 | 20.2.2024
 
+- Mindmap übung
+- Einführung Migration
+- Gruppenbildung
+- Git Repo Erstellung
+- Projekt Auswahl
+
 
 ### Woche 2 | 27.2.2024
 
