@@ -1,4 +1,5 @@
 # m158
+
 Software-Migration planen und durchführen
 
 ### Kompetenz:
@@ -7,6 +8,7 @@ Software-Migration planen und durchführen
 #### Neuer Major-Release einer Software inkl. Datenübernahme. Neue Software für die Ablösung bestehender Software inkl. Datenübernahme.
 
 ---
+
 ### Inhalt des Modules!
 
 - [Arbeitsjournal-Kaan](https://github.com/Dante1197/m158/blob/main/Arbeitsjournal-Kaan.md)
@@ -22,4 +24,5 @@ Dieses Repo wird von Folgendem Mitglied Geführt:
 
 
 ![](https://www.pi-informatik.berlin/wp-content/uploads/2021/02/Migration@2x-25x25-1-e1617976580378.png)
+
 ---
