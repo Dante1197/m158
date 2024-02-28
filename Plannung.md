@@ -1,8 +1,8 @@
 
 
-**Projektplan für die Migration zu WordPress auf Ubuntu 22.04 mit Proxmox:**
+### Projektplan für die Migration zu WordPress auf Ubuntu 22.04 mit Proxmox:
 
-Anleitungen:
+**Anleitungen:**
 
 - [YouTube Tutorial](https://www.youtube.com/watch?v=lD6vQBDHkqU&ab_channel=LearnLinuxTV) einer WordPress-Installation mit Virtual Host unter Ubuntu.
 
