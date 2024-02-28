@@ -11,6 +11,13 @@
 
 ### Woche 2 | 27.2.2024
 
+- Git Repo Struktur eingebaut
+- Microsoft Planner Setup
+- Plannung Gestartet
+
+#### To'do:
+- Plannung Abschliessen (Zeitlich)
+- Instanz Umgebung Abschliessen
 
 ### Woche 3 | 5.3.2024
 
