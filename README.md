@@ -13,6 +13,7 @@ Software-Migration planen und durchführen
 
 - [Arbeitsjournal-Kaan](https://github.com/Dante1197/m158/blob/main/Arbeitsjournal-Kaan.md)
 - [Arbeitsjournal-Dante](https://github.com/Dante1197/m158/blob/main/Arbeitsjournal-Dante.md)
+- [Plannung](https://github.com/Dante1197/m158/blob/main/Plannung.md)
 
 ---
 
