@@ -39,6 +39,8 @@
 
 ### Woche 5 | 19.3.2024
 
+- Tailscale installation
+- Ubuntu SSH enable + Root zugelassen 
 
 ### Woche 6 | 26.3.2024
 
