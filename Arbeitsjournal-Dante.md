@@ -39,8 +39,12 @@
 
 ### Woche 5 | 19.3.2024
 
-- Tailscale installation
-- Ubuntu SSH enable + Root zugelassen 
+- Tailscale installation - Erfolgreich 
+- [Ubuntu SSH enable + Root zugelassen](https://access.redhat.com/documentation/it-it/red_hat_enterprise_linux/6/html/v2v_guide/preparation_before_the_p2v_migration-enable_root_login_over_ssh)
+
+To'do
+- Das ganze noch fertig [Dokumentieren](/m158/Tailscale-installation.md)
+- Ubuntu konfig 
 
 ### Woche 6 | 26.3.2024
 
