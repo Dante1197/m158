@@ -48,6 +48,8 @@ To'do
 
 ### Woche 6 | 26.3.2024
 
+- Ubuntu Konfig gestartet 
+- 
 
 ### Woche 7 | 2.4.2024
 
