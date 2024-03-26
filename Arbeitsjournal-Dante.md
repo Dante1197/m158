@@ -48,8 +48,13 @@ To'do
 
 ### Woche 6 | 26.3.2024
 
-- Ubuntu Konfig gestartet 
-- 
+- Ubuntu ssh root login enable 
+![](SSHroot.png)
+- Ubuntu Static IP Config 
+- Ubuntu Konfig Gestartet 
+
+#### To'do
+- Ubuntu Konfig Fertig bringen 
 
 ### Woche 7 | 2.4.2024
 
