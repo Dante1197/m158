@@ -25,9 +25,14 @@
 
 ### Woche 5 | 19.3.2024
 
+- Tailscale Installation und Dokumentation
+
+(Installation fertig. Dokumentation fast fertig)
 
 ### Woche 6 | 26.3.2024
 
+- Tailscale Dokumentation 
+- Ubuntu config angefangen
 
 ### Woche 7 | 2.4.2024
 
