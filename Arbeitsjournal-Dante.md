@@ -41,7 +41,7 @@
 
 - Tailscale installation - Erfolgreich 
 
-To'do
+##### To'do
 - [Ubuntu SSH enable + Root zulassen](https://access.redhat.com/documentation/it-it/red_hat_enterprise_linux/6/html/v2v_guide/preparation_before_the_p2v_migration-enable_root_login_over_ssh)
 - Das ganze noch fertig [Dokumentieren](/m158/Tailscale-installation.md)
 - Ubuntu konfig starten 
@@ -58,6 +58,11 @@ To'do
 
 ### Woche 7 | 2.4.2024
 
+- Apache Installation
+- MariaDB installation 
+- Wordpress installation
+
+##### to'do
 
 ### Woche 8 | 9.4.2024
 
