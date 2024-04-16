@@ -31,16 +31,31 @@
 
 ### Woche 6 | 26.3.2024
 
-- Tailscale Dokumentation 
+- Tailscale Dokumentation
+- Ubuntu ssh root login enabled
 - Ubuntu config angefangen
 
 ### Woche 7 | 2.4.2024
 
+- Apache Installation
+- MariaDB installation 
+- Wordpress installation
+
+##### to'do
+
+- FTP installation 
 
 ### Woche 8 | 9.4.2024
 
+- FTP installation 
+- Dokumentation dazu angefangen 
+
+### to'do 
+- Dokumentation fertig machen 
+- DNS Records
 
 ### Woche 9 | 16.4.2024
 
+- DNS Records leider fehlgeschlagen 
 
 ### Woche 10 | 23.4.2024
