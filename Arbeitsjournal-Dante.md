@@ -64,10 +64,19 @@
 
 ##### to'do
 
+- FTP installation 
+
 ### Woche 8 | 9.4.2024
 
+- FTP installation 
+- Dokumentation dazu angefangen 
+
+### to'do 
+- Dokumentation fertig machen 
+- DNS Records
 
 ### Woche 9 | 16.4.2024
 
+- DNS Records leider fehlgeschlagen 
 
 ### Woche 10 | 23.4.2024
