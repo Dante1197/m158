@@ -84,3 +84,4 @@ sudo ufw allow from any to any port 20,21 proto tcp
 sudo ufw enable
 ```
 ![](image-1.png)
+![image](https://github.com/Dante1197/m158/assets/111874433/05b81382-361f-4178-b154-71cb637db39e)
