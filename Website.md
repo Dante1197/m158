@@ -2,10 +2,10 @@
 
 ![](Images/Website.png)
 
-## Die Seite https://neue-url/wp-admin/site-health.php zeigt keine Fehler
+## Die Seite https://tanjiro.cloud/wp-admin/site-health.php zeigt keine Fehler
 
 ![](Images/Site-Health.png)
 
-## Die Seite https://neue-url/wp-admin/admin.php?page=et_support_center_divi zeigt keine Fehler auf
+## Die Seite https://tanjiro.cloud/wp-admin/admin.php?page=et_support_center_divi zeigt keine Fehler auf
 
 ![](Images/Divi.png)

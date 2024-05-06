@@ -1,6 +1,7 @@
 ## Ein Datei- und Datenbank-Backup ist Serverseitig eingerichtet
 
-Das Plugin (BackWPup), welches bereits auf de3m Legacy-Server installiert war, haben wir ebenfalls auf unserer Wordpress Seite installiert und einen Auftrag eingerichtet, welcher regelmässig ausgeführt wird und somit auch in regelmässigen Abständen ein Backup der gesmaten Webseite und Datenbank vornimmt.
-Aktuell wird dieses Backup auf dem Server selbst abgelegt, es wäre natürlich für die Zukunft wünschenswert, diese Sichereungsdatei jeweils direkt an einem anderen Ort abzulegen.
+Das Plugin BackWPup, das bereits auf dem Legacy-Server installiert war, haben wir auch auf unserer Wordpress-Seite integriert und einen Job konfiguriert, der regelmäßig ausgeführt wird. Dadurch erfolgt in regelmäßigen Abständen eine Sicherung der gesamten Webseite und Datenbank.
 
-![](Images/Backup.png)
+Aktuell wird dieses Backup auf dem Server selbst gespeichert. Es wäre jedoch wünschenswert, diese Sicherungsdatei zukünftig direkt an einem anderen Ort abzulegen.
+
+![Backup](Images/Backup.png)
