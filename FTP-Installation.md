@@ -83,7 +83,7 @@ sudo ufw allow ssh
 sudo ufw allow from any to any port 20,21 proto tcp
 sudo ufw enable
 ```
-![](image-1.png)
+![](Images/image-1.png)
 
 ---
 
@@ -182,4 +182,4 @@ sudo ufw enable
     sudo ufw enable
     ```
 
-![](image-1.png)
+![](Images/image-1.png)

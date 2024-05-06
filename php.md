@@ -11,3 +11,7 @@ sudo a2enmod php8.2
 
 ## Es wird min. PHP Version 8.2 eingesetzt
 siehe Abschnitt zur PHP Installation
+
+## phpmyadmin
+
+![](Images/phpmyadmin.png)
