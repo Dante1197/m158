@@ -12,8 +12,7 @@ Eine neue vhost-Datei namens `wordpress.conf` wurde im Verzeichnis `/etc/apache2
 
 ```apache
 <VirtualHost *:80>
-    ServerName wp-toor.m158.etlas.one
-    ServerAlias ipv6.wp-toor.m158.etlas.one
+    ServerName Tanjiro.cloud
     DocumentRoot /srv/www/wordpress
     <Directory /srv/www/wordpress>
         Options FollowSymLinks
