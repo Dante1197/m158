@@ -13,6 +13,8 @@ sudo a2enmod php8.2
 
 Siehe Abschnitt zur PHP-Installation.
 
+![](Images/php_version.png)
+
 ## phpMyAdmin
 
 ![phpMyAdmin](Images/phpmyadmin.png)
