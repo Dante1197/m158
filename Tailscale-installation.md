@@ -9,7 +9,7 @@
 
 3. Navigieren Sie zu **System** --> **Package Manager** --> **Available Packages** und suchen Sie nach **Tailscale**. Klicken Sie auf **Install** und bestätigen Sie anschließend.
 
-4. Gehen Sie zu **VPN** --> **Tailscale** --> **Settings** (siehe Screenshot) ![](Tailscaleconfig.png)
+4. Gehen Sie zu **VPN** --> **Tailscale** --> **Settings** (siehe Screenshot) ![](Images/Tailscaleconfig.png)
 
 5. Besuchen Sie die [Tailscale Webseite](https://tailscale.com/download) und laden Sie die Anwendung für Windows herunter.
 

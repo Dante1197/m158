@@ -11,9 +11,17 @@ Software-Migration planen und durchführen
 
 ### Inhalt des Modules!
 
-- [Arbeitsjournal-Kaan](https://github.com/Dante1197/m158/blob/main/Arbeitsjournal-Kaan.md)
-- [Arbeitsjournal-Dante](https://github.com/Dante1197/m158/blob/main/Arbeitsjournal-Dante.md)
-- [Plannung](https://github.com/Dante1197/m158/blob/main/Plannung.md)
+- [Arbeitsjournal-Kaan](Arbeitsjournal-Kaan.md)
+- [Arbeitsjournal-Dante](Arbeitsjournal-Dante.md)
+- [Plannung](Plannung.md)
+- [Backup](Backup.md)
+- [Berechtigungen](Berechtigungen-Lösung.md)
+- [Datenbankserver](Datenbankserver.md)
+- [FTP Installation](FTP-Installation.md)
+- [php](php.md)
+- [Tailscale installation](Tailscale-installation.md)
+- [Webserver](Webserver.md)
+- [Website](Website.md)
 
 ---
 

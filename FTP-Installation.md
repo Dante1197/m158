@@ -85,6 +85,8 @@ sudo ufw enable
 ```
 ![](Images/image-1.png)
 
+![](Images/Ftp.png)
+
 ---
 
 
